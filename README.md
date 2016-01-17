@@ -6,11 +6,11 @@ be easier than continuing to develop it. Instead I got bored and did something
 else.
 
 Some features:
-    * Plays legal chess, apart from some complications to do with the
+   * Plays legal chess, apart from some complications to do with the
       fifty-move rule.
-    * A vaguely xboard-compatible interface.
-    * Lots of sexy search speedups, including killer moves, aspiration search,
-      late move reduction, futility pruning, principal variation search, null
-      move heuristic, etc.
-    * An evaluation function which is not completely terrible.
-    * Scores 295/300 on the Win At Chess test set.
+   * A vaguely xboard-compatible interface.
+   * Lots of sexy search speedups, including killer moves, aspiration search,
+     late move reduction, futility pruning, principal variation search, null
+     move heuristic, etc.
+   * An evaluation function which is not completely terrible.
+   * Scores 295/300 on the Win At Chess test set.
